@@ -1,4 +1,4 @@
-# UNASAT SEM2 MEMORY GAME
+# UNASAT SEM4 MEMORY GAME
 
 ## Groepsleden
 * Rajiv Ramsing (SE/1121/046)
